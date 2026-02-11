@@ -11,6 +11,11 @@ Easily feature your downloads
 
 == Description ==
 
+= Featured Downloads is now part of EDD Core =
+As of Easy Digital Downloads 3.5.1, the Featured Downloads addon is included in Easy Digital Downloads. You no longer need this addon to use the Featured Downloads feature.
+
+= About this Addon = 
+
 This plugin requires [Easy Digital Downloads](https://wordpress.org/extend/plugins/easy-digital-downloads/ "Easy Digital Downloads"). It's aimed at developers/clients who need to show a list of featured downloads.
 
 1. Provides a template tag so finely-tuned placement of featured downloads in your theme is possible.
